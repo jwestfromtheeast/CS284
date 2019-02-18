@@ -1,4 +1,4 @@
-package recitation1;
+package recitation;
 
 public class Cat {
 	
